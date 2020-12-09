@@ -5,5 +5,5 @@
 
 <h3 align="left">My Activities:</h3>
 <p align='left'>
-[![Peter John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redjoker011)](https://github.com/anuraghazra/github-readme-stats)
+[![Peter John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redjoker011)](https://github.com/redjoker011/github-readme-stats)
 </p>
