@@ -8,7 +8,7 @@
 <i>Get in touch with me:</i><br>
 
 <a href="https://www.linkedin.com/in/redjoker011/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://stackoverflow.com/users/8680724" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
+<a href="https://stackoverflow.com/users/8680724/exwire?tab=profile" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
 
 </div>
 
