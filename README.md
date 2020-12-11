@@ -4,7 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redjoker011&layout=compact&show_icons=true&theme=dracula)](https://github.com/redjoker011/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
 <div align="left">
-<i>Let's Connect:</i><br>
+
+<i>Get in touch with me:</i><br>
 
 <a href="https://www.linkedin.com/in/redjoker011/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://stackoverflow.com/users/8680724" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
